@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Here are the languages that have mastry of: 
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talagozis&layout=compact&&hide=css,html&langs_count=6)](https://github.com/talagozis)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=talagozis&show_icons=true&theme=algolia&count_private=true)
